@@ -1,9 +1,10 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { DarwingApp } from "../drawing-app/darwing-app";
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  imports: [ DarwingApp],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
