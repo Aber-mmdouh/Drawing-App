@@ -1,6 +1,7 @@
 # DrawingApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.6.
+<img width="1366" height="647" alt="2026-06-22 (9)" src="https://github.com/user-attachments/assets/d0e5061d-2781-4d88-a77d-1bcba3bfc41d" />
 
 ## Development server
 
